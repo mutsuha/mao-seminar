@@ -8,6 +8,7 @@ https://elmas3.github.io/mao-seminar/
 エルマス
 わかば
 うなぎ
+ごまだれ
 
 # ディレクトリ構成
 ```
